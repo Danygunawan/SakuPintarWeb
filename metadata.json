@@ -1,0 +1,6 @@
+{
+  "name": "SakuPintar",
+  "description": "Smart Wallet Tracker & Financial Analyzer dashboard with AI-driven insights, fast logging, and responsive spend calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
